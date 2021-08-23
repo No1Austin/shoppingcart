@@ -1,0 +1,38 @@
+* {
+  font-family: sans-serif;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+nav {
+  align-self: left;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+  width: 167px;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px, auto;
+}
+
+.menshoes {
+  position: absolute;
+}
+
+.womens {
+  position: absolute;
+}
+
+.unisex {
+  position: absolute;
+}
+
+img {
+  width: 10%;
+  height: auto;
+}
